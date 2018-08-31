@@ -3,7 +3,7 @@ Dashboard UI template for fundamental CRUD operations. Includes ready-to-use pag
 
 ## Check it out
 
-[fatihint.github.io/cruder](fatihint.github.io/cruder)
+[https://fatihint.github.io/cruder](https://fatihint.github.io/cruder)
 
 You can see the design from the url above and in order to access the dashboard itself, either click the **CRUDER** text on the header or fill the login form with the arbitrary data and click **Login** button.
 
