@@ -14,8 +14,9 @@ svg {
     font-size: 1.5rem;
 }
 
-.navbar-dark .navbar-nav .nav-link {
+.navbar-dark .list-inline .nav-link {
     color: #ffffff;
+    padding: 0 .2rem !important;
 }
 
 /* FORM SECTION */
